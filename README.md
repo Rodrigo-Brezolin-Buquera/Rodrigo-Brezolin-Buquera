@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Developer Web Full Stack
+Web Full Stack Developer
 
 - How to reach me: rodrigobbuquera@gmail.com
 
