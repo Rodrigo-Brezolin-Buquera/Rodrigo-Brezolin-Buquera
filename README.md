@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigo-brezolin-buquera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo brezolin buquera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rodrigo-brezolin-buquera-174063102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo brezolin buquera" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo-brezolin-buquera&show_icons=true&locale=en" alt="rodrigo-brezolin-buquera" /></p>
